@@ -1,0 +1,9 @@
+.btn{
+    display: flex;
+    width: 9.3rem;
+} 
+
+.container{
+    display: inline-flex;
+
+}
